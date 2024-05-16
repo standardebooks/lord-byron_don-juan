@@ -63,7 +63,9 @@ section[epub|type~="epigraph"] > *{
 /* End full-page epigraphs */
 
 /* Hymn, poem, song, verse */
-[epub|type~="z3998:poem"] header p{
+header,
+[epub|type~="z3998:poem"] header p,
+[epub|type~="z3998:verse"] header p{
 	font-variant: small-caps;
 	margin: 1em;
 	text-align: center;
@@ -114,5 +116,25 @@ p span.i1{
 p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
+}
+
+p span.i3{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+
+p span.i9{
+	padding-left: 10em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] span.variant{
+	border-left: 2px solid;
+	border-radius: 12px;
+	border-right: 2px solid;
+	display: inline-block;
+	padding: 0 .5em 0 .5em;
+	text-indent: 0;
+	vertical-align: middle;
 }
 /* End hymn, poem, song, verse */
