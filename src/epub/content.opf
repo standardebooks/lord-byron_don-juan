@@ -32,14 +32,16 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043932</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Don Juan&lt;/i&gt; is an epic satirical poem that reinterprets the legendary figure of Don Juan as a young, naive, and passive adventurer who becomes involved in various romantic and adventurous exploits more by circumstance than by intent. The poem opens with Juan’s early life in Seville, where his strict upbringing by his mother Donna Inez contrasts sharply with his eventual affair with Donna Julia, a married woman. This scandal forces Juan to flee, setting him on a series of adventures across Europe and beyond.&lt;/p&gt;
+			&lt;p&gt;Throughout his travels, Juan experiences a shipwreck, capture by pirates, and enslavement in Constantinople, where he is placed in a Sultan’s harem disguised as a woman. His journey takes him to Russia, where he becomes a favorite of Empress Catherine the Great, and later to England, where Byron satirizes British society’s pretensions and moral hypocrisies. Juan’s adventures are marked by his innocence and charm, which lead him into and out of various romantic entanglements and perilous situations.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Don Juan&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/lord-byron"&gt;Lord Byron&lt;/a&gt;, first published in parts between 1819 and 1824, was written during a period of personal and political turbulence for the poet. Byron, known for his rebellious and controversial lifestyle, composed the poem while living in exile in Italy, having fled England due to scandals and debts. Although the poem remains unfinished, with Byron completing 16 cantos before his death, &lt;i&gt;Don Juan&lt;/i&gt; stands as a profound and humorous exploration of the absurdities and contradictions of the human condition, wrapped in the adventures of its iconic protagonist.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18762</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000667686</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">1) The poem references William Wordsworth’s poem Benjamin the Waggoner; the modernize-spelling tool tries to change this. 2) The Preface to Cantos VI, VII, and VIII was moved to the frontmatter. </meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Don_Juan</meta>
