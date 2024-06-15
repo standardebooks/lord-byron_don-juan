@@ -32,8 +32,16 @@
 	</file>
 	<file path="endnotes.xhtml">
 		<ignore>
+			<code>t-005</code>
+			<reason>This is not dialog.</reason>
+		</ignore>
+		<ignore>
 			<code>t-017</code>
 			<reason>There is an exclamation mark in the book’s title.</reason>
+		</ignore>
+		<ignore>
+			<code>y-031</code>
+			<reason>There isn’t a typo.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
