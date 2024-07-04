@@ -41,7 +41,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18762</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000667686</dc:source>
-		<meta property="se:production-notes">1) The poem references William Wordsworth’s poem Benjamin the Waggoner; the `modernize-spelling` tool tries to change this. 2) The Preface to Cantos VI, VII, and VIII was moved to the frontmatter. 3) The characters flagged by `find-unusual-characters` are correct. 4) The `find-mismatched-diacritics` tool flags many instances because of the large amount of French text.</meta>
+		<meta property="se:production-notes">1) The poem references William Wordsworth’s poem Benjamin the Waggoner; the `modernize-spelling` tool tries to change this. 2) The Preface to Cantos VI, VII, and VIII was moved to the frontmatter. 3) The characters flagged by `find-unusual-characters` are correct. 4) The `find-mismatched-diacritics` tool flags many instances because of the large amount of French text. 5) The `find-mismatched-dashes` tool flags many instances because dashes are only modernized in the endnotes.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Don_Juan</meta>
