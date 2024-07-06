@@ -18,23 +18,7 @@
 			<reason>In “Or Molu,” the “Or” is not a conjunction.</reason>
 		</ignore>
 	</file>
-	<file path="canto-13.xhtml">
-		<ignore>
-			<code>t-075</code>
-			<reason>The acute accent in “début” is correct.</reason>
-		</ignore>
-	</file>
-	<file path="canto-15.xhtml">
-		<ignore>
-			<code>t-075</code>
-			<reason>The acute accents in “consommé” and “purée” are correct.</reason>
-		</ignore>
-	</file>
 	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-005</code>
-			<reason>This is not dialog.</reason>
-		</ignore>
 		<ignore>
 			<code>t-017</code>
 			<reason>There is an exclamation mark in the book’s title.</reason>
