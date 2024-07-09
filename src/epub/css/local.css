@@ -74,6 +74,10 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
+[epub|type~="epigraph"] h2{
+	font-style: normal;
+}
+
 /* Hymn, poem, song, verse */
 header,
 [epub|type~="z3998:poem"] header p,
@@ -90,6 +94,7 @@ footer,
 }
 
 #canto-5[epub|type~="z3998:poem"] footer p:first-child{
+	margin-top: 3em;
 	text-align: center;
 }
 
@@ -168,9 +173,9 @@ span.elision{
 }
 
 [epub|type~="z3998:verse"] span.variant{
-	border-left: 2px solid;
-	border-radius: 12px;
-	border-right: 2px solid;
+	border-left: 1px solid;
+	border-radius: 5px;
+	border-right: 1px solid;
 	display: inline-block;
 	padding: 0 .5em 0 .5em;
 	text-indent: 0;
