@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lord-byron/don-juan</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-07-20T17:20:38Z</dc:date>
+		<meta property="dcterms:modified">2024-07-20T17:20:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,15 +35,15 @@
 		<dc:description id="description">A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Don Juan&lt;/i&gt; is an epic satirical poem that reinterprets the legendary figure of Don Juan as a young, naive, and passive adventurer who becomes involved in various romantic and adventurous exploits more by circumstance than by intent. The poem opens with Juan’s early life in Seville, where his strict upbringing by his mother Donna Inez contrasts sharply with his eventual affair with Donna Julia, a married woman. This scandal forces Juan to flee, setting him on a series of adventures across Europe and beyond.&lt;/p&gt;
-			&lt;p&gt;Throughout his travels, Juan experiences a shipwreck, capture by pirates, and enslavement in Constantinople, where he is placed in a Sultan’s harem disguised as a woman. His journey takes him to Russia, where he becomes a favorite of Empress Catherine the Great, and later to England, where Byron satirizes British society’s pretensions and moral hypocrisies. Juan’s adventures are marked by his innocence and charm, which lead him into and out of various romantic entanglements and perilous situations.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Don Juan&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/lord-byron"&gt;Lord Byron&lt;/a&gt;, first published in parts between 1819 and 1824, was written during a period of personal and political turbulence for the poet. Byron, known for his rebellious and controversial lifestyle, composed the poem while living in exile in Italy, having fled England due to scandals and debts. Although the poem remains unfinished, with Byron completing 16 cantos before his death, &lt;i&gt;Don Juan&lt;/i&gt; stands as a profound and humorous exploration of the absurdities and contradictions of the human condition, wrapped in the adventures of its iconic protagonist.&lt;/p&gt;
+			&lt;p&gt;During his travels Juan is shipwrecked and captured by pirates, and then enslaved in Constantinople, where he is placed in a Sultan’s harem disguised as a woman. His journey takes him to Russia, where he becomes a favorite of Empress Catherine the Great, and later to England, where Byron satirizes British society’s pretensions and moral hypocrisies. Juan’s adventures are marked by his innocence and charm, which lead him into and out of various romantic entanglements and perilous situations.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Don Juan&lt;/i&gt; was published in fits and starts between 1819 and 1824, having been written during a period of personal and political turbulence for &lt;a href="https://standardebooks.org/ebooks/lord-byron"&gt;Lord Byron&lt;/a&gt;. Byron, known for his rebellious and controversial lifestyle, composed the poem while living in exile in Italy, having fled England due to scandals and debts. Although the poem remains unfinished, with Byron having completed only sixteen cantos before his death, &lt;i&gt;Don Juan&lt;/i&gt; stands as a profound and humorous exploration of the absurdities and contradictions of the human condition, wrapped in the adventures of its iconic protagonist.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18762</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000667686</dc:source>
-		<meta property="se:production-notes">1) The poem references William Wordsworth’s poem Benjamin the Waggoner; the `modernize-spelling` tool tries to change this. 2) The Preface to Cantos VI, VII, and VIII was moved to the frontmatter. 3) The characters flagged by `find-unusual-characters` are correct. 4) The `find-mismatched-diacritics` tool flags many instances because of the large amount of French text. 5) The `find-mismatched-dashes` tool flags many instances because dashes are only modernized in the endnotes.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">1) The poem references William Wordsworth’s poem Benjamin the Waggoner; the `modernize-spelling` tool tries to change this. 2) The Preface to Cantos VI, VII, and VIII was moved to the frontmatter.</meta>
+		<meta property="se:word-count">135062</meta>
+		<meta property="se:reading-ease.flesch">60.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Don_Juan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lord-byron_don-juan</meta>
 		<dc:creator id="author">Lord Byron</dc:creator>
