@@ -27,5 +27,9 @@
 			<code>y-031</code>
 			<reason>There isn’t a typo.</reason>
 		</ignore>
+		<ignore>
+			<code>t-060</code>
+			<reason>Matched text is not a Bible citation.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
