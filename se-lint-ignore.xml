@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="epigraph-2.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>The abbreviation for manuscript is titlecased correctly.</reason>
-		</ignore>
-	</file>
 	<file path="canto-9.xhtml">
 		<ignore>
 			<code>t-075</code>
@@ -24,12 +18,18 @@
 			<reason>There is an exclamation mark in the book’s title.</reason>
 		</ignore>
 		<ignore>
+			<code>t-060</code>
+			<reason>Matched text is not a Bible citation.</reason>
+		</ignore>
+		<ignore>
 			<code>y-031</code>
 			<reason>There isn’t a typo.</reason>
 		</ignore>
+	</file>
+	<file path="epigraph-2.xhtml">
 		<ignore>
-			<code>t-060</code>
-			<reason>Matched text is not a Bible citation.</reason>
+			<code>s-023</code>
+			<reason>The abbreviation for manuscript is titlecased correctly.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
