@@ -58,8 +58,8 @@
 		<dc:contributor id="editor">Ernest Hertley Coleridge</dc:contributor>
 		<meta property="file-as" refines="#editor">Coleridge, Ernest Hertley</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Marcel Saunier</dc:contributor>
 		<meta property="file-as" refines="#artist">Saunier, Marcel</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
