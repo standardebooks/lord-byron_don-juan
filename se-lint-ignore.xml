@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="canto-9.xhtml">
-		<ignore>
-			<code>t-075</code>
+		<ignore code="t-075">
 			<reason>The acute accent in “levée” is correct.</reason>
 		</ignore>
 	</file>
 	<file path="canto-11.xhtml">
-		<ignore>
-			<code>y-026</code>
+		<ignore code="y-026">
 			<reason>In “Or Molu,” the “Or” is not a conjunction.</reason>
 		</ignore>
 	</file>
 	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>There is an exclamation mark in the book’s title.</reason>
 		</ignore>
-		<ignore>
-			<code>t-060</code>
+		<ignore code="t-060">
 			<reason>Matched text is not a Bible citation.</reason>
 		</ignore>
-		<ignore>
-			<code>y-031</code>
+		<ignore code="y-031">
 			<reason>There isn’t a typo.</reason>
 		</ignore>
 	</file>
 	<file path="epigraph-2.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>The abbreviation for manuscript is titlecased correctly.</reason>
 		</ignore>
 	</file>
