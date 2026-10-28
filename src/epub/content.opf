@@ -60,6 +60,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="editor">Ernest Hertley Coleridge</dc:contributor>
 		<meta property="file-as" refines="#editor">Coleridge, Ernest Hertley</meta>
+		<link href="https://en.wikipedia.org/wiki/Ernest_Hartley_Coleridge" refines="#editor" rel="schema:sameAs"/>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
